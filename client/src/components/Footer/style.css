@@ -1,0 +1,22 @@
+footer{
+    text-align: center;
+}
+
+.github {
+    width: 32px;
+    height: 32px;
+    margin-right: 10px;
+    margin-left: 10px;
+    box-shadow: none!important;
+}
+
+.page-footer {
+    text-align: center;
+    height: 75px;
+    background-color: #100314
+    
+}
+
+#nameLink{
+    color: white;
+}

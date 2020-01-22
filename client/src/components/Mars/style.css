@@ -1,0 +1,14 @@
+#roverHome{
+    height: 300px;
+    width: 300px;
+    border:2px solid #021a40;
+}
+
+#homeCard{
+    width: 900px;
+}
+
+#roverText{
+    margin-left: -150px;
+}
+

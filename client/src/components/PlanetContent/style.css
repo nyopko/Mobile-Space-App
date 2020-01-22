@@ -1,0 +1,28 @@
+.planetPic{
+    height: 585px;
+    width: 1281px;
+    border:2px solid #021a40;
+}
+
+.PlanetContent {
+    /* margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: red; */
+}
+
+#modalPics{
+    height: 300px;
+    width: 350px;
+    margin-left: 140px;
+}
+
+#planetCard{
+    margin-top: -40px;
+}
+
+#planetName{
+    margin-top: -10px;
+    color: purple!important;
+    text-align: center;
+}
+
